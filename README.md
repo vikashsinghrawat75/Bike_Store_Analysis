@@ -13,7 +13,7 @@ This project simulates a retail bike store chain tracking system. It covers the 
 * **Languages:** T-SQL
 ---
 
-## 🗄️ Part 1: SQL Database Setup & EDA (`Bike_Store_Project`)
+## 🗄️ SQL Database Setup & EDA (`Bike_Store_Project`)
 The database pipeline handles exclusive lock error resolution, flat file ingestion across 9 distinct tables, and explicit relational modeling:
 
 1. **Schema Integrity:** Configured Primary Keys and Foreign Key cascade constraints across relational entities (`brands`, `categories`, `customers`, `orders`, `order_items`, `products`, `staffs`, `stocks`, `stores`).
